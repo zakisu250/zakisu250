@@ -1,5 +1,10 @@
 function firstDigit(inputString: string): string {
-
+  for (let i = 0; i < inputString.length; i++) {
+    if (!isNaN(parseInt(inputString[i]))) {
+      return inputString[i];
+    }
+  }
+  return '';
 }
 
 console.log(firstDigit('var_1__Int'));
