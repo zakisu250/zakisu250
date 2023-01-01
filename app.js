@@ -11,6 +11,10 @@ export function subtract(a, b) {
 // arrow function
 const multiply = (a, b) => a * b;
 
+// exported arrow function
+export const divide = (a, b) => a / b;
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
+console.log(divide(1, 2));
