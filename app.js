@@ -80,6 +80,13 @@ export function exportedIIFEWithReturn() {
   })();
 }
 
+// exported IIFE with return and parameters
+export function exportedIIFEWithReturnAndParameters(a, b) {
+  return (function (a, b) {
+    return a + b;
+  })(a, b);
+}
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
