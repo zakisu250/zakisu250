@@ -24,6 +24,11 @@ callbackFunction(function () {
   console.log('callback function');
 });
 
+// IIFE (Immediately Invoked Function Expression)
+(function () {
+  console.log('IIFE');
+})();
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
