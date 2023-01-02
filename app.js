@@ -54,6 +54,11 @@ export function exportedCallbackFunction(callback) {
   callback();
 }
 
+// exported anonymous function
+export function exportedAnonymousFunction() {
+  console.log('exported anonymous function');
+}
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
