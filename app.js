@@ -87,6 +87,11 @@ export function exportedIIFEWithReturnAndParameters(a, b) {
   })(a, b);
 }
 
+// react component
+export default function App() {
+  return <div>App</div>;
+}
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
