@@ -66,6 +66,13 @@ export function exportedIIFE() {
   })();
 }
 
+// exported IIFE with parameters
+export function exportedIIFEWithParameters(a, b) {
+  (function (a, b) {
+    console.log(a + b);
+  })(a, b);
+}
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
