@@ -39,6 +39,11 @@ const asyncArrowFunction = async () => {
   return 'async arrow function';
 };
 
+// exported async function
+export async function asyncExportedFunction() {
+  return 'async exported function';
+}
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
