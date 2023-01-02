@@ -102,6 +102,11 @@ export const ExportedArrowApp = () => {
   return <div>Exported Arrow App</div>;
 };
 
+// exported react component with arrow function and parameters
+export const ExportedArrowAppWithParameters = (props) => {
+  return <div>{props.text}</div>;
+};
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
