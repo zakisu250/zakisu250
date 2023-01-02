@@ -20,6 +20,13 @@ class MyComponent extends React.Component {
           <li>Lord of the Rings</li>
           <li>Indiana Jones</li>
         </ol>
+
+        <p>My favorite colors are:</p>
+        <ol>
+          <li>Black</li>
+          <li>White</li>
+          <li>Blue</li>
+        </ol>
       </div>
     );
   }
