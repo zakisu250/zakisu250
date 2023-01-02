@@ -92,6 +92,11 @@ export default function App() {
   return <div>App</div>;
 }
 
+// exported react component
+export function ExportedApp() {
+  return <div>Exported App</div>;
+}
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
