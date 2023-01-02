@@ -34,7 +34,15 @@ async function asyncFunction() {
   return 'async function';
 }
 
+// async arrow function
+const asyncArrowFunction = async () => {
+  return 'async arrow function';
+};
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
 console.log(divide(1, 2));
+console.log(callbackFunction);
+console.log(asyncFunction());
+console.log(asyncArrowFunction());
