@@ -29,6 +29,11 @@ callbackFunction(function () {
   console.log('IIFE');
 })();
 
+// async function
+async function asyncFunction() {
+  return 'async function';
+}
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
