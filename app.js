@@ -59,6 +59,13 @@ export function exportedAnonymousFunction() {
   console.log('exported anonymous function');
 }
 
+// exported IIFE
+export function exportedIIFE() {
+  (function () {
+    console.log('exported IIFE');
+  })();
+}
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
