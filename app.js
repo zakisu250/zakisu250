@@ -114,3 +114,17 @@ console.log(divide(1, 2));
 console.log(callbackFunction);
 console.log(asyncFunction());
 console.log(asyncArrowFunction());
+console.log(asyncExportedFunction());
+console.log(asyncExportedArrowFunction());
+console.log(exportedCallbackFunction);
+console.log(exportedAnonymousFunction());
+console.log(exportedIIFE());
+console.log(exportedIIFEWithParameters(1, 2));
+console.log(exportedIIFEWithReturn());
+console.log(exportedIIFEWithReturnAndParameters(1, 2));
+console.log(App());
+console.log(ExportedApp());
+console.log(ExportedArrowApp());
+console.log(
+  ExportedArrowAppWithParameters({ text: 'Exported Arrow App With Parameters' })
+);
