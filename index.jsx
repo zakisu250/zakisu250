@@ -27,6 +27,19 @@ class MyComponent extends React.Component {
           <li>White</li>
           <li>Blue</li>
         </ol>
+
+        <p>My favorite websites are:</p>
+        <ul>
+          <li>
+            <a href="https://www.google.com">Google</a>
+          </li>
+          <li>
+            <a href="https://www.facebook.com">Facebook</a>
+          </li>
+          <li>
+            <a href="https://www.twitter.com">Twitter</a>
+          </li>
+        </ul>
       </div>
     );
   }
