@@ -13,6 +13,13 @@ class MyComponent extends React.Component {
           <li>Ice Cream</li>
           <li>Donuts</li>
         </ul>
+
+        <p>My favorite movies are:</p>
+        <ol>
+          <li>Star Wars</li>
+          <li>Lord of the Rings</li>
+          <li>Indiana Jones</li>
+        </ol>
       </div>
     );
   }
