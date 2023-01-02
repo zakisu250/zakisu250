@@ -97,6 +97,11 @@ export function ExportedApp() {
   return <div>Exported App</div>;
 }
 
+// exported react component with arrow function
+export const ExportedArrowApp = () => {
+  return <div>Exported Arrow App</div>;
+};
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 console.log(multiply(1, 2));
