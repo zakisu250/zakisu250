@@ -40,6 +40,13 @@ class MyComponent extends React.Component {
             <a href="https://www.twitter.com">Twitter</a>
           </li>
         </ul>
+
+        <p>My favorite programming languages are:</p>
+        <ol>
+          <li>JavaScript</li>
+          <li>Python</li>
+          <li>C#</li>
+        </ol>
       </div>
     );
   }
