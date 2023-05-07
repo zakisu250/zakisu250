@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakisu250&label=Profile%20views&color=0e75b6&style=flat" alt="zakisu250" /> </p>
 
-- 🔭 I’m currently working on **Profile**
+- 🔭 I’m currently working on my **Profile**
 
 - 🌱 I’m currently learning **React, NextJS, Typescript**
 
@@ -14,8 +14,8 @@
 <a href="https://twitter.com/@zakisu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zakisu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/zekaria-mohammed-6a74ab70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/zekaria-mohammed-6a74ab70" height="30" width="40" /></a>
 <a href="https://instagram.com/@zakisu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@zakisu" height="30" width="40" /></a>
-<a href="https://www.behance.net/zakisu mhm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zakisu mhm" height="30" width="40" /></a>
-<a href="https://medium.com/@zakihd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zakihd" height="30" width="40" /></a>
+<a href="https://www.behance.net/zakimhm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zakisu mhm" height="30" width="40" /></a>
+<a href="https://medium.com/@zakisu250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zakihd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@zakistuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@zakistuff" height="30" width="40" /></a>
 </p>
 
