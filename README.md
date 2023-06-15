@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/zakisu250/zakisu250/blob/main/123.jpg)
 <h1 align="center">Hi 👋, I'm ZAKI</h1>
 <h3 align="center">A passionate Fullstack developer from Ethiopia.</h3>
 
