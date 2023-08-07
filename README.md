@@ -6,9 +6,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=zakisu250" alt="zakisu" /></a>
 
-- 🔭 I’m currently working on [Profile](https://portfolio-one-sandy-92.vercel.app/)
+- 🔭 I’m currently working on CMS(Clinic Management System) listed [Portfolio](https://zakisu.vercel.app/)
 
-- 🌱 I’m currently learning **React, NextJS, Typescript, ReactNative, AWS**
+- 🌱 I’m currently learning **React, NextJS, Typescript, ReactNative, AWS, Python**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-one-sandy-92.vercel.app/](https://portfolio-one-sandy-92.vercel.app/)
 
