@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakisu250&label=Profile%20views&color=0e75b6&style=flat" alt="zakisu250" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakisu&label=Profile%20views&color=0e75b6&style=flat" alt="zakisu" /> </p>
-
 <img src="https://github-profile-trophy.vercel.app/?username=zakisu250" alt="zakisu" /></a>
 
 - 🔭 I’m currently working on [Profile](https://portfolio-one-sandy-92.vercel.app/)
