@@ -6,13 +6,13 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=zakisu250" alt="zakisu" /></a>
 
-- 🔭 I’m currently working on CMS(Clinic Management System) listed [Portfolio](https://zakisu.vercel.app/)
+- 🔭 I’m currently working on CMS(Clinic Management System) listed [Portfolio](https://zakisu.tech/portfolio)
 
 - 🌱 I’m currently learning **React, NextJS, Typescript, ReactNative, AWS, Python**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-one-sandy-92.vercel.app/](https://portfolio-one-sandy-92.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-one-sandy-92.vercel.app/](https://zakisu.tech/)
 
-- 📫 How to reach me **zakisu250@gmail.com**
+- 📫 How to reach me **zakisudev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
