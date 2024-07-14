@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, NextJS, Typescript, ReactNative, AWS, Python**
 
-- 👨‍💻 All of my projects are available at [https://zakisu.tech](https://www.zakisu.tech)
+- 👨‍💻 All of my projects are available at [https://www.zakisu.tech](https://www.zakisu.tech)
 
 - 📫 How to reach me **zakisudev@gmail.com**
 
