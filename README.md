@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on CMS(Clinic Management System) listed [Portfolio](https://www.zakisu.tech)
 
-- 🌱 I’m currently learning **React, NextJS, Typescript, ReactNative, AWS, Python**
+- 🌱 I’m currently learning **NextJS, Typescript, ReactNative, AWS**
 
 - 👨‍💻 All of my projects are available at [https://www.zakisu.tech](https://www.zakisu.tech)
 
